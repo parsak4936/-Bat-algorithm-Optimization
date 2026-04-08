@@ -35,4 +35,4 @@ Ensure you have Python 3.10+ installed on your system.
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/parsak4936/-Bat-algorithm-Optimization.git](https://github.com/parsak4936/-Bat-algorithm-Optimization.git)
-cd YOUR-REPOSITORY-NAME
+cd -Bat-algorithm-Optimization
