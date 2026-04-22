@@ -31,11 +31,11 @@ The algorithms are benchmarked and stress-tested for scalability across three di
 ## Repository Structure
 The project is divided into three primary Jupyter Notebooks, containing the core algorithm logic, the Meta-Tuning engines, and the scalability stress tests:
 
-* `BA_nqueennew.ipynb` - Implementation, Meta-Tuning, and scalability tests for the N-Queens domain.
-* `knapsacknew.ipynb` - Implementation, Meta-Tuning, and scalability tests for the 0/1 Knapsack constraint satisfaction.
-* `tsp_new.ipynb` - Implementation, Meta-Tuning, and scalability tests for the Travelling Salesman routing problem.
+* `ba_nqueen.ipynb` - Implementation, Meta-Tuning, and scalability tests for the N-Queens domain.
+* `ba_knapsack.ipynb` - Implementation, Meta-Tuning, and scalability tests for the 0/1 Knapsack constraint satisfaction.
+* `ba_tsp.ipynb` - Implementation, Meta-Tuning, and scalability tests for the Travelling Salesman routing problem.
 * `berlin52.tsp` - The standardized geographic coordinate dataset utilized for the TSP routing.
-* `Bio_inspired_report_D1.pdf` - The comprehensive academic research report detailing the mathematical proofs, Big-O complexities, and empirical findings.
+* `Bio_inspired_report.pdf` - The comprehensive academic research report detailing the mathematical proofs, Big-O complexities, and empirical findings.
 * `/images/` - Directory containing the high-resolution diagnostic dashboards (Convergence, Swarm Health, Biodiversity, and Route Mapping).
 
 ## Installation and Execution
