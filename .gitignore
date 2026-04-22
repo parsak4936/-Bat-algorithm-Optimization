@@ -1,2 +1,13 @@
-.venv/
+# Environments
 venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Old Versions/Drafts
+v0/
